@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Taiwo.
-I am a Backend Developer , Cloud Engineer and Hardware Developer. I love ✨ TypeScript ✨, Electronics and starting projects. When I am no busy coding, struggling with electronics or trying to create a better Art generating model, I usually watch anime, read books or ne on twitter.
+I am a Backend Developer , Cloud Engineer and Hardware Developer. I love ✨ TypeScript ✨, Electronics and starting projects. When I am not busy coding, struggling with electronics or trying to create a better Art generating model, I usually watch anime, read books or ne on twitter.
 
 
 
 
-- 🔭 I’m currently working on [commitSpy](https://commitspy.netlify.app).
+- 🔭 I’m currently working on [commitSpy](https://commitspy.netlify.app). Check it out.
 
 - ⚡ I have a Podcast Called [Taiwo's Lab](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yYjRkNDkzNC9wb2RjYXN0L3Jzcw==). Check it out.
 
