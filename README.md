@@ -4,13 +4,13 @@ I am a Backend Developer , Cloud Engineer and Hardware Developer. I love ✨ Typ
 
 
 
-- 🔭 I’m currently working on [commitSpy](https://commitspy.netlify.app). Check it out.
+- 🔭 I’m currently working on [cdEnv](https://github.com/teezzan/cdEnv). Check it out.
 
 - ⚡ I have a Podcast Called [Taiwo's Lab](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yYjRkNDkzNC9wb2RjYXN0L3Jzcw==). Check it out.
 
-- 🌱 I’m currently learning Go and FastAI.
+- 🌱 I’m currently learning Go.
 
-- ⚡ Fun fact: I love AI generated Art.
+- ⚡ Fun fact: I love AI generated Art. Check it out on [Telegram](https://t.me/AiPaint_bot).
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/hw_kage) 🐤
