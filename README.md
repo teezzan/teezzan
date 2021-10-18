@@ -10,7 +10,7 @@ I am a Backend Developer, Cloud Engineer and Hardware Developer. I love Open-sou
  
 - ⚡ Fun fact: I love AI generated Art. Check it out on [Telegram](https://t.me/AiPaint_bot). Seriously, Check it out.
 
-## Latest Blog posts
+## Latest Blog posts and Podcasts.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
