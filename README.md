@@ -12,6 +12,11 @@ I am a Backend Developer, Cloud Engineer and Hardware Developer. I love Open-sou
 
 ## Latest Blog posts and Podcasts.
 <!-- BLOG-POST-LIST:START -->
+- [Burnout in Software Development and How to deal with it. (Adewole Tofunmi & Ogunsusi Temitayo)](https://anchor.fm/taiwoslab/episodes/Burnout-in-Software-Development-and-How-to-deal-with-it--Adewole-Tofunmi--Ogunsusi-Temitayo-evog32)
+- [My Projects, Their Current State.](https://anchor.fm/taiwoslab/episodes/My-Projects--Their-Current-State-em94oi)
+- [Remote work and How to get started (with Habeeb "HAKSOAT" Shopeju)](https://anchor.fm/taiwoslab/episodes/Remote-work-and-How-to-get-started-with-Habeeb-HAKSOAT-Shopeju-el1omr)
+- [Making Informed Choices as a Beginner to Programming (with Adewole Tofunmi)](https://anchor.fm/taiwoslab/episodes/Making-Informed-Choices-as-a-Beginner-to-Programming-with-Adewole-Tofunmi-ek9352)
+- [Is Hardware Development really Hard?](https://anchor.fm/taiwoslab/episodes/Is-Hardware-Development-really-Hard-ej718s)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Where to find me
