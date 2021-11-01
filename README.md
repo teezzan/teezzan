@@ -8,7 +8,7 @@ I am a Backend Developer, Cloud Engineer and Hardware Developer. I love Open-sou
 
 - 🔭 I am an active member of [VirtualCoffee](https://virtualcoffee.io/). An inclusive and intimate community for all devs. We do fun stuff.
  
-- 🌱 I am Learning Solidity and [Web3](https://www.freecodecamp.org/news/what-is-web3/). Check out my first [dApp on Replt](https://taiwowave.teezzan.repl.co/).
+- 🌱 I am Learning Solidity and [Web3](https://www.freecodecamp.org/news/what-is-web3/). Check out my Onchain Address Book [DApp](http://web3addressbook.netlify.app/).
   
 - ⚡ Fun fact: I love AI generated Art. I made a Telegram Bot that makes them on demand. Check it out on [Telegram](https://t.me/AiPaint_bot). Seriously, Check it out.
   <details>
