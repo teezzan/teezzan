@@ -21,11 +21,11 @@ I am a Backend Developer, Cloud Engineer and Hardware Developer. I love Open-sou
   </details>
 ## Latest Blog posts and Podcasts.
 <!-- BLOG-POST-LIST:START -->
+- [Letter to a Code Newbie.](https://taiwodevlab.hashnode.dev/letter-to-a-code-newbie-ckvjoopim04g07ls16ey2ewae)
 - [Why I use Github Codespaces and why you should try it out.](https://taiwodevlab.hashnode.dev/why-i-use-github-codespaces-and-why-you-should-try-it-out-ckupq3uso12t2rvs1e4ar6230)
 - [PR #2. What I learnt dockerizing a Flask app.](https://taiwodevlab.hashnode.dev/pr-2-what-i-learnt-dockerizing-a-flask-app-ckugzgt7s0cyfuys17bkqdj2d)
 - [VirtualCoffee and my journey as a developer.](https://taiwodevlab.hashnode.dev/virtualcoffee-and-my-journey-as-a-developer-cktr5qoaq01mfhvs1b83shmo5)
 - [Securing your JSON Web Tokens the correct way.](https://taiwodevlab.hashnode.dev/securing-your-json-web-tokens-the-correct-way-ckqf6hvjq0l5bgss148l2h5fu)
-- [Building OhTP, an OTP solution. (Part 1)](https://taiwodevlab.hashnode.dev/building-ohtp-an-otp-solution-part-1-ckqdm9pl30b5zgss11vie5b0q)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Where to find me
