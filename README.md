@@ -21,11 +21,11 @@ I am a Backend Developer, Cloud Engineer and Hardware Developer. I love Open-sou
   </details>
 ## Latest Blog posts and Podcasts.
 <!-- BLOG-POST-LIST:START -->
-- [Letter to a Code Newbie.](https://taiwodevlab.hashnode.dev/letter-to-a-code-newbie-ckvjoopim04g07ls16ey2ewae)
-- [Why I use Github Codespaces and why you should try it out.](https://taiwodevlab.hashnode.dev/why-i-use-github-codespaces-and-why-you-should-try-it-out-ckupq3uso12t2rvs1e4ar6230)
-- [PR #2. What I learnt dockerizing a Flask app.](https://taiwodevlab.hashnode.dev/pr-2-what-i-learnt-dockerizing-a-flask-app-ckugzgt7s0cyfuys17bkqdj2d)
-- [VirtualCoffee and my journey as a developer.](https://taiwodevlab.hashnode.dev/virtualcoffee-and-my-journey-as-a-developer-cktr5qoaq01mfhvs1b83shmo5)
-- [Securing your JSON Web Tokens the correct way.](https://taiwodevlab.hashnode.dev/securing-your-json-web-tokens-the-correct-way-ckqf6hvjq0l5bgss148l2h5fu)
+- [Burnout in Software Development and How to deal with it. &lpar;Adewole Tofunmi &amp; Ogunsusi Temitayo&rpar;](https://anchor.fm/taiwoslab/episodes/Burnout-in-Software-Development-and-How-to-deal-with-it--Adewole-Tofunmi--Ogunsusi-Temitayo-evog32)
+- [My Projects, Their Current State.](https://anchor.fm/taiwoslab/episodes/My-Projects--Their-Current-State-em94oi)
+- [Remote work and How to get started &lpar;with Habeeb &quot;HAKSOAT&quot; Shopeju&rpar;](https://anchor.fm/taiwoslab/episodes/Remote-work-and-How-to-get-started-with-Habeeb-HAKSOAT-Shopeju-el1omr)
+- [Making Informed Choices as a Beginner to Programming &lpar;with Adewole Tofunmi&rpar;](https://anchor.fm/taiwoslab/episodes/Making-Informed-Choices-as-a-Beginner-to-Programming-with-Adewole-Tofunmi-ek9352)
+- [Is Hardware Development really Hard?](https://anchor.fm/taiwoslab/episodes/Is-Hardware-Development-really-Hard-ej718s)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Where to find me
