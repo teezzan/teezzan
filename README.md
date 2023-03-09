@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Taiwo.
-I am a Backend Developer, Cloud Engineer and Hardware Developer. I love Open-source, Electronics and starting projects. When I am not busy coding, recording a podcast or trying to create a better digital Art generating model, I usually watch anime, read books or "relax" on twitter.
+I am a Software Developer. I love Open-source, and starting projects. When I am not busy coding, recording a podcast or trying to create a better digital Art generating model, I usually watch anime, read books or "relax" on twitter.
 
 
 - 🔭 I have a [blog on hashnode](https://taiwodevlab.hashnode.dev/) where I write my thoughts from time to time. You don't want to miss out on those.
